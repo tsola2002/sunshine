@@ -1,0 +1,9 @@
+index.log
+*.txt
+#logs/*
+!bug.log
+log[0-9].log
+log_[a-z].log
+err*
+*.html
+
